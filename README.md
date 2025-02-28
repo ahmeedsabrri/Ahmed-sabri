@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Systems & Web Developer</h3>
 
 <p align="center">
-  <a href="mailto:sabriahmeed1@gmail.com"><img src="https://img.shields.io/badge/Email-sabriahamed@gmail.com-red?style=flat-square&logo=gmail"></a>
+  <a href="mailto:sabriahmeed1@gmail.com"><img src="https://img.shields.io/badge/Email-sabriahmed@gmail.com-red?style=flat-square&logo=gmail"></a>
   <a href="https://linkedin.com/in/ahmed-sabri-446364259"><img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Sabri-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://github.com/ahmeedsabrri"><img src="https://img.shields.io/github/followers/ahmeedsabrri?label=GitHub&style=flat-square"></a>
 </p>
